@@ -4,7 +4,7 @@ user_lotto_numbers_list = []
 
 // 1 ~ 45 사이의 랜덤한 숫자 반환
 function getRandomNum(){
-  
+
 }
 
 // lotto_nums(list) 값들 중 ball_num(number)값과 중복되는 값이 있는지 확인한다.
